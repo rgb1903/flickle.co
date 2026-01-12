@@ -18,7 +18,7 @@ Flickle is the ultimate daily puzzle game for cinephiles and binge-watchers. Whi
 - **📅 Daily Challenge:** A new puzzle drops every 24 hours.
 - **🔥 Streak System:** Track your stats and keep your winning streak alive.
 - **📱 PWA Support:** Install directly to your phone (iOS/Android) for a native app experience.
-- **🔍 Visual Analysis: Beyond just guessing, explore our daily visual breakdowns to understand the cinematography behind the shots.
+- **🔍 Visual Analysis:** Beyond just guessing, explore our daily visual breakdowns to understand the cinematography behind the shots.
 - **🚫 No Ads:** 100% Free gameplay.
 
 ## 🚀 Why Flickle?
